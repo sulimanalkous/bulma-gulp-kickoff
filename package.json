@@ -1,0 +1,22 @@
+{
+  "name": "bulma-cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "bulma-calendar": "^5.0.5",
+    "bulma-extensions": "^4.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "bulma-carousel": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
